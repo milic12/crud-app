@@ -9,12 +9,12 @@ git clone https://github.com/milic12/crud-app.git
 run in your terminal
 
 ```js
-cd backend then 
+cd backend
 npm run dev
 ```
 then
 
 ```js
-cd frontend
+cd front-end
 npm run dev
 ```
