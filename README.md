@@ -1,4 +1,4 @@
-# crud-app
+# Crud app
 Crudd app project made with Typescript, React, Material-UI, NodeJs, MongoDB, Express
 
 to run this app
