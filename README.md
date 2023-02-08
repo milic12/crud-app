@@ -10,11 +10,13 @@ run in your terminal
 
 ```js
 cd backend
+npm i
 npm run dev
 ```
 then
 
 ```js
 cd front-end
+npm i
 npm run dev
 ```
