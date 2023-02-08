@@ -1,5 +1,5 @@
 # Crud app
-Crudd app project made with Typescript, React, Material-UI, NodeJs, MongoDB, Express
+Crudd app project made with Typescript, React, Material-UI, NodeJs, MongoDB, Express and Jest for testing 
 
 to run this app
 
